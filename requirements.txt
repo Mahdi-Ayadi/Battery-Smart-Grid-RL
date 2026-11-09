@@ -1,0 +1,17 @@
+# BLOC A : Data Engineering
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+
+# BLOC B : Simulateur physique
+gymnasium>=0.29
+pandapower>=2.14
+
+# BLOC C : GNN + RL
+torch>=2.3
+torch-geometric>=2.5
+stable-baselines3>=2.3
+tensorboard>=2.16
+
+# Outils
+matplotlib>=3.8
