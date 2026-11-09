@@ -1,0 +1,12 @@
+{
+  "period": "val",
+  "hours": 1464,
+  "baseline_pnl_eur": 15343.601368421052,
+  "baseline_max_loading_pct": 139.4650912993118,
+  "baseline_hours_over_limit": 182,
+  "baseline_no_convergence": 0,
+  "agent_pnl_eur": 25.687585089041967,
+  "agent_max_loading_pct": 90.51259491181506,
+  "agent_hours_over_limit": 0,
+  "agent_no_convergence": 0
+}
