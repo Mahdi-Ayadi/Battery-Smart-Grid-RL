@@ -10,6 +10,7 @@ data/processed/
 runs/
 models/*.zip
 models/checkpoints/
+docs/
 
 # IDE
 .vscode/
